@@ -1,0 +1,3 @@
+# llSPS-INT-1324-Smart-Agriculture-system-based-on-IoT
+Smart Agriculture system based on IoT
+The project is based on the four technology stack mainly - IBM Watson platform, Node -red, a bit of python programming and Open weather map API. The main motive behind this project is to get information from the Openweather platform and IBM IoT simulator and import it to the nodered which we will use to make a dashboard in UI that will show us the levels in gauges and also create buttons that will help us to control motors on the field. The idea is to create a simulation of the real world agricultural sector and how IoT can help in it.
